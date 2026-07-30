@@ -1,0 +1,11 @@
+{
+    "xrfkey" : "NH9v1XFTeqzGXRbV",
+    "user_id" : "jdoe",
+    "user_directory" : "COMPANY",
+    "proxy_server" : "https://qlik-server.company.com:4243",
+    "client_cert" : "/path/to/client.pem",
+    "client_key" : "/path/to/client_key.pem",
+    "url" : "https://qlik-server.company.com",
+    "cookie_name" : "X-Qlik-Session-cookiename",
+    "app_guid" : "<App_ID>"
+}
