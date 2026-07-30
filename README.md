@@ -1,8 +1,7 @@
-# Qlik App Metadata Extractor — High-Level Design
+# Qlik App Metadata Extractor 
 
 **Component:** `QlikAppMetadataExtractor.py`
 **Audience:** Engineers, integrators, and reviewers with working knowledge of Python, HTTP, and REST APIs
-**Companion document:** `QlikAppMetadataExtractor_DOCUMENTATION.md` (reference-level, line-by-line)
 
 ---
 
