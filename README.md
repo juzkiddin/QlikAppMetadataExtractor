@@ -318,5 +318,3 @@ The module is import-safe and its transformation functions are pure, so the natu
 | Concurrency | Parallelise the loop in `extract_metadata_for_apps()`; guard the two summary dictionary writes |
 
 ---
-
-*High-level design for `QlikAppMetadataExtractor.py` (357 lines) — July 2026.*
